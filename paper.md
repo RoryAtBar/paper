@@ -27,3 +27,5 @@ She sees sells sea shells with super sales figures in summer
 
 #Peter section
 Peter piper picked a pile of pickled peppers
+
+Insert figures
