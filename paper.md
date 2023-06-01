@@ -3,7 +3,8 @@ She sells sea shells-Conches on the sea shore- or does she?
 
 
 # Author
-Rory AB
+Rory AB, Uni of Manchester
+John Doe, University of hard knocks
 
 #Introduction
 She sells sea shells
