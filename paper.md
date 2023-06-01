@@ -1,5 +1,5 @@
 # Title
-She sells sea shells on the sea shore -specifically conches
+She sells Conches on the sea shore
 # Author
 Rory AB
 
@@ -12,4 +12,5 @@ Near a seaside town (Obvious et al 1999)
 
 Some argue she should sell shells inland where supply is low
 
+# Conch
 Yet everyone wants a conch souvenir from the beach 
