@@ -7,4 +7,6 @@ Rory AB
 #Introduction
 She sells sea shells
 
-But she sells them on the sea shore.
+But she sells them on the sea shore. (Bloggs et al)
+
+Near a seaside town (Obvious et al 1999)
