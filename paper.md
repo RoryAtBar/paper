@@ -34,3 +34,8 @@ Insert figures
 
 #Conclusions
 The conclusions are concluded with the final concluding statement
+
+
+#Affilitiations
+
+This was all my work not yours!
